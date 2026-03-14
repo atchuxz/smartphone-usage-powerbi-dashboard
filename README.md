@@ -48,5 +48,5 @@ Usage Analysis by Location
 Decomposition Tree for identifying factors affecting app usage
 Interactive Slicers and Filters for dynamic exploration
 
-📸 Dashboard Snapshot
+
 
